@@ -27,5 +27,6 @@ To set up and run the MiteBus24 application on your computer, follow these steps
 3. **Install Dependencies:**
   npm install react-bootstrap
   npm install jquery
-4. **Start the Application:**
+  npm i react-router-dom
+5. **Start the Application:**
   npm start
